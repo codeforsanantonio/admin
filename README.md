@@ -78,5 +78,11 @@ We use the Meteor JS Platform because it offers:
 - All submitted design and development specifications must meet our Contribution Guidelines.
 
 ## Contribution Guidelines
-Contributing to Code for San Antonio projects is easy and straightfoward. All Pull Requests to Code for San Antonio projects must follow the CSS guidelines from [18F GSA guidelines for CSS](https://pages.18f.gov/frontend/), these [JS Guidelines](https://github.com/meteor/meteor/wiki/Meteor-Style-Guide), and the best practices of HTML5 from [HTML5 Boilerplate](https://html5boilerplate.com/).
+Contributing to Code for San Antonio projects is easy and straightfoward. All Pull Requests to Code for San Antonio projects must follow the best practices of HTML5 from [HTML5 Boilerplate](https://html5boilerplate.com/) and adhere to the following:
+
+- All HTML5 should adhere to standards enforced by the [W3C Markup Validator Service](https://validator.w3.org/).
+- All CSS should adhere to standards enforced by [18F GSA guidelines for CSS](https://pages.18f.gov/frontend/)
+- All JS should adhere to the standards enforced by [JSHint](http://jshint.com/)
+
+
 
