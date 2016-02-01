@@ -41,7 +41,7 @@ Workflow
 # Developer Resources
 
 ## Development Environment
-Easily join the project by setting up a Node environment and installing Meteor on your Linux, OS X, or Windows machine. If you need a separate development server environment, we recommend using [Nitrous.io](https://www.nitrous.io/) or [CodeAnywhere](https://codeanywhere.com/)for setting up a cloud development environment.
+Easily join the project by setting up a Node environment and installing [Meteor](https://www.meteor.com/install) on your Linux, OS X, or Windows machine. If you need a separate development server environment, we recommend using [Nitrous.io](https://www.nitrous.io/) or [CodeAnywhere](https://codeanywhere.com/)for setting up a cloud development environment.
 
 ## Getting Started
 - Install the latest stable version of Node.JS from https://nodejs.org/en/
