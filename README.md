@@ -1,27 +1,14 @@
 # Code for San Antonio 2016
 ## Meeting Intro
 
-What is CodeForAmerica and what is Code for San Antonio?
-
-Ice breaker, name game like "I love my neighbor" or something similar.
-
-Developer Presentation
-
-- we're about pair programming
-- pairs work on features
-
-** Stakeholder interview and collaboration **
-
-Workflow
-- git workflow intro
-- clone the repo
-- start the project
+#### What is CodeForAmerica
+### What is Code for San Antonio?
 
 ## Our Goals
 - Longevity of the group and its mission
 - Civic impact!
 - Quick and measureable successes!
-- Multiple projects to keep volunteer designer/developers engaged. 
+- Multiple projects to keep volunteer designer/developers engaged.
 
 ## Project Criteria
 - The project must have a civic and local impact
@@ -70,7 +57,7 @@ We use the Meteor JS Platform because it offers:
   - Sass
 - Write HTML templates to express data
 
-## Terms of Service Agreement 
+## Terms of Service Agreement
 - All volunteer work and effort is considered a social donation for civic goodwill
 - All work is open source for the greatest social good.
 - Designers and developers for Code for San Antonio projects maintain the right to feature their work and contributions on their own page.
@@ -84,5 +71,14 @@ Contributing to Code for San Antonio projects is easy and straightfoward. All Pu
 - All CSS should adhere to standards enforced by [18F GSA guidelines for CSS](https://pages.18f.gov/frontend/)
 - All JS should adhere to the standards enforced by [JSHint](http://jshint.com/)
 
+Developer Presentation
 
+- we're about pair programming
+- pairs work on features
 
+** Stakeholder interview and collaboration **
+
+Workflow
+- git workflow intro
+- clone the repo
+- start the project
